@@ -87,6 +87,9 @@
 		<Unit filename="/home/patrick/Documents/ClassWork/Jan-Apr-2020/OOP/Fortune Business Systems/main.cpp">
 			<Option target="Fortune_Business_Systems"/>
 		</Unit>
+		<Unit filename="/home/patrick/Documents/ClassWork/Jan-Apr-2020/OOP/Fortune Business Systems/main.h">
+			<Option target="Fortune_Business_Systems"/>
+		</Unit>
 		<Unit filename="/home/patrick/Documents/ClassWork/Jan-Apr-2020/OOP/Fortune Business Systems/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
