@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="tIHXPcHf" />
+  </component>
+  <component name="ProjectId" id="1ZgEJ1CiLhGgv8TZ6SfCj8sccel" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Fortune_Business_Systems" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Fortune_Business_Systems" TARGET_NAME="Fortune_Business_Systems" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Fortune_Business_Systems" RUN_TARGET_NAME="Fortune_Business_Systems">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+</project>

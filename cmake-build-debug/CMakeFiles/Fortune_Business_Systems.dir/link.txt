@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Fortune_Business_Systems.dir/main.cpp.o  -o Fortune_Business_Systems 
